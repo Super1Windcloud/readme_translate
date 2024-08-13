@@ -2,7 +2,7 @@
 免费开源的vscode Markdown翻译插件 
 
 
-### *vscode 插件搜索 readme_translate 安装后右键点击即可翻译*
+### *vscode 插件搜索 readmeTranslate 安装后右键点击即可翻译*
 
 [仓库位置https://gitee.com/superwindcloud/readme_translate](https://gitee.com/superwindcloud/readme_translate)
 ![image](https://github.com/user-attachments/assets/c8658ce0-9f5e-4ad9-a7f2-2f174dcd3056)
